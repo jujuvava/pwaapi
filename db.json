@@ -1,0 +1,24 @@
+{
+  "post" : [
+  {"id":1,"name":"Python, carpet","last_name":"Indigo"},
+  {"id":2,"name":"Steller's sea lion","last_name":"Mauv"},
+  {"id":3,"name":"Chestnut weaver","last_name":"Fuscia"},
+  {"id":4,"name":"Sage hen","last_name":"Fuscia"},
+  {"id":5,"name":"Macaw, blue and gold","last_name":"Blue"},
+  {"id":6,"name":"Red-legged pademelon","last_name":"Teal"},
+  {"id":7,"name":"Green-winged trumpeter","last_name":"Fuscia"},
+  {"id":8,"name":"Lizard, frilled","last_name":"Blue"},
+  {"id":9,"name":"Snake, buttermilk","last_name":"Pink"},
+  {"id":10,"name":"Boa, mexican","last_name":"Purple"},
+  {"id":11,"name":"Bustard, denham's","last_name":"Aquamarine"},
+  {"id":12,"name":"Blue fox","last_name":"Purple"},
+  {"id":13,"name":"Asiatic wild ass","last_name":"Green"},
+  {"id":14,"name":"Palm squirrel","last_name":"Violet"},
+  {"id":15,"name":"Ferruginous hawk","last_name":"Teal"},
+  {"id":16,"name":"Bulbul, black-eyed","last_name":"Crimson"},
+  {"id":17,"name":"Asian false vampire bat","last_name":"Purple"},
+  {"id":18,"name":"South American meadowlark (unidentified)","last_name":"Teal"},
+  {"id":19,"name":"Phascogale, brush-tailed","last_name":"Khaki"},
+  {"id":20,"name":"Grant's gazelle","last_name":"Pink"}
+]
+}
